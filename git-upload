@@ -1,0 +1,9 @@
+#!/bin/bash
+if [ $# == 1 ]
+then
+git config --global user.email MarexKupsans@outlook.com
+git add .
+#git commit -m "20190207_15_04"
+git commit -m $1
+git push origin master
+fi

@@ -1,0 +1,36 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git clone https://github.com/kupsans/RTR108
+    4  ls
+    5  cd RTR108
+    6  ls
+    7  -ls
+    8  -lt
+    9  ls
+   10  ..
+   11  ls
+   12  ..
+   13  cd
+   14  ls
+   15  cd RTR108
+   16  ls
+   17  ls -lt
+   18  cat README.md 
+   19  ls -la
+   20  nano README.md 
+   21  ls -lt
+   22  cat README.md 
+   23  git config  --global user.email MarexKupsans@outlook.com
+   24  git add .
+   25  git commit -m "20190207_14_55_pirmais_commits"
+   26  git push origin master
+   27  nano README.md 
+   28  nano git-upload
+   29  ls
+   30  git-upload
+   31  ./git-upload
+   32  chmod 740 git-upload
+   33  ls
+   34  ls -lt
+   35  history
+   36  history > history_20190207.txt
