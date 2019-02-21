@@ -33,8 +33,6 @@ To var izdarīt šādi:
 
 **echo $0** parāda interpretatoru
 
-Mēs vienmēr atrodamies konkrētā vietā - failu sistēmā.
-
 **whoami** parāda, kas es esmu
 
 **pwd** parāda pašreizējo atrašanās vietu
@@ -49,6 +47,7 @@ Mēs vienmēr atrodamies konkrētā vietā - failu sistēmā.
 
 **scp** attālināta kopēšana
 
+Mēs vienmēr atrodamies konkrētā vietā - failu sistēmā.
 
 
 ##### Izmantojot bash interpretatoru:
