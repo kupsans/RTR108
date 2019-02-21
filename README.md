@@ -27,7 +27,7 @@ To var izdarīt šādi:
 
 ### 4.nodarbība
 
-##### Noderīgas komandas
+##### _Noderīgas komandas_
 
  **uname** parāda operētājsistēmu
 
