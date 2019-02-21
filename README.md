@@ -1,5 +1,5 @@
 # RTR108
-:zap: Studiju kursa Datormācība (speckurss) elektroniskā klade :zap:
+# :zap: Studiju kursa Datormācība (speckurss) elektroniskā klade :zap:
 ## 2. nodarbība
 rinda 1   
 rinda 2   
