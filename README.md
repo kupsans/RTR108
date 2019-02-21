@@ -1,5 +1,5 @@
 # RTR108
-:baby_chick: Studiju kursa Datormācība (speckurss) elektroniskā klade :baby_chick:
+:zap: Studiju kursa Datormācība (speckurss) elektroniskā klade :zap:
 ## 2. nodarbība
 rinda 1   
 rinda 2   
@@ -54,3 +54,9 @@ Skriptu var izveidot izmantojot nano teksta redaktoru (_nano skripts.sh_).
 Skriptu uzreiz nevarēs palaist. Tādēļ ir jāpapildina PATH. _PATH=$PATH:~/_
 
 Lai uzzinātu pašreizējo PATH izmanto komandu: **echo $PATH**
+
+Šim jaunajam failam ir jāpiešķir tiesības. To dara šādi: **cmod 750 skripts.sh**
+
+Trīs ciparus pēc cmod var mainīt, ar citām vērtībām būs dažādas tiesības.
+
+Skripta piemērs arī ir pieejams šajā repozitārijā (skripts.sh)
