@@ -9,15 +9,15 @@ rinda 3
 ##### Failu augšupielādēšana github
 To var izdarīt šādi:
 
-Sākumā lejuplādēt repozitariju RTR108 izmantojot komandu: git clone https://github.com/kupsans/RTR108 ;
+ Sākumā lejuplādēt repozitariju RTR108 izmantojot komandu: git clone https://github.com/kupsans/RTR108 ;
 
-Pārvietot failus lejupielādētajā mapē (ar **mv** komandu, piemēram, **mv history20190221.txt RTR108/** );
+ Pārvietot failus lejupielādētajā mapē (ar **mv** komandu, piemēram, **mv history20190221.txt RTR108/** );
 
-Ieiet RTR108 un palaist skriptu _git-upload_, kuru mēs esam izveidojuši;
+ Ieiet RTR108 un palaist skriptu _git-upload_, kuru mēs esam izveidojuši;
 
-Ievadīt savu username un paroli;
+ Ievadīt savu username un paroli;
 
-Gatavs! 
+ Gatavs! 
 
 
 ### 4.nodarbība
