@@ -29,17 +29,28 @@ To var izdarīt šādi:
 
 ##### Noderīgas komandas
 
-Lai uzzinātu savu operētājsistēmu, izmanto komandu: **uname**
+ **uname** parāda operētājsistēmu
 
-Lai uzzinātu programmēšanas valodu, jeb interpretatoru, izmanto komandu: **echo $0** 
+**echo $0** parāda interpretatoru
 
 Mēs vienmēr atrodamies konkrētā vietā - failu sistēmā.
-Lai uzzinātu, kas es esmu sistēmā, izmanto komandu: **whoami**
 
-Bet, lai uzzinātu pašreizējo atrašanās vietu, izmanto komandu: **pwd**
+**whoami** parāda, kas es esmu
 
-un lai uzzinātu to, kas man ir pieejams, izmanto komandu: **ls**
- 
+**pwd** parāda pašreizējo atrašanās vietu
+
+**ls** parāda pieejamos failus
+
+**cd** pārvietoties uz citu mapi
+
+**mv** pārvietot failu
+
+**cp** kopēt failu
+
+**scp** attālināta kopēšana
+
+
+
 ##### Izmantojot bash interpretatoru:
 
 Ar ~ apzīmē mājas mapi.
