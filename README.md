@@ -3,7 +3,7 @@
 ### 2. nodarbība
 Kurss ir pieejams SAKAI sistēmā. 
 
-htts://edx2.etf.rtu.lv/portal
+https://edx2.etf.rtu.lv/portal/
 
 
 ### 3.nodarbība
