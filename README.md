@@ -1,9 +1,11 @@
 # RTR108
 ## :zap: Studiju kursa Datormācība (speckurss) elektroniskā klade :zap:
 ### 2. nodarbība
-rinda 1   
-rinda 2   
-rinda 3  
+Kurss ir pieejams SAKAI sistēmā. 
+
+htts://edx2.etf.rtu.lv/portal
+
+
 ### 3.nodarbība
 
 ##### Failu augšupielādēšana github
