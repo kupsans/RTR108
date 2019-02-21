@@ -8,9 +8,6 @@ Kurss ir pieejams SAKAI sistēmā.
 
 https://edx2.etf.rtu.lv/portal/
 
-
-
-
 ### 3.nodarbība
 
 ##### Failu augšupielādēšana github
@@ -73,6 +70,8 @@ Trīs ciparus pēc cmod var mainīt, ar citām vērtībām būs dažādas tiesī
 Skripta piemērs arī ir pieejams šajā repozitārijā (skripts.sh)
 
 ##### history iegūšana
-Komanda **history** uz ekrāna izdrukā visas izpildītās komandas.  Lai history pārvērstu teksta failā, izmanto komandu
+Komanda **history** uz ekrāna izdrukā visas izpildītās komandas.
+
+Lai history pārvērstu teksta failā, izmanto komandu
 _history > history20190221.txt_
 
