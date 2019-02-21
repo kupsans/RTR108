@@ -14,7 +14,7 @@ Sākumā lejuplādēt repozitariju RTR108 izmantojot komandu: git clone https://
 
 ### Noderīgas komandas
 Lai uzzinātu savu operētājsistēmu, izmanto komandu: **uname**
-Lai uzzinātu programmēšanas valodu, jeb interpretatoru, izmanto komandu: **echo $0**
+Lai uzzinātu programmēšanas valodu, jeb interpretatoru, izmanto komandu: **echo $0** 
 
 Mēs vienmēr atrodamies konkrētā vietā - failu sistēmā.
 Lai uzzinātu, kas es esmu sistēmā, izmanto komandu: **whoami**
@@ -22,11 +22,11 @@ Bet, lai uzzinātu pašreizējo atrašanās vietu, izmanto komandu: **pwd**
 un lai uzzinātu to, kas man ir pieejams, izmanto komandu: **ls**
  
 ### Izmantojot bash interpretatoru:
-Ar ~ apzīmē mājas mapi.
+Ar ~ apzīmē mājas mapi. 
 Ar TAB pogu ir iespējams pabeigt to, ko esat iesācis darīt. Ja ir vairāki varianti, tad 
-tiks piedāvāti vairāki varianti.
+tiks piedāvāti vairāki varianti. 
 Ar komandu  **sh** tiks pamainīts interpretators uz sh . Kurš būs vienkāršāks(Piemēram,
-mapes nebūs zilā krāsā). Tas ir domāts, sistēmām ar ierobežotiem resursiem.
-Ar komandu **exit** var tikt atpakaļ uz bash.
+mapes nebūs zilā krāsā). Tas ir domāts, sistēmām ar ierobežotiem resursiem. 
+Ar komandu **exit** var tikt atpakaļ uz bash. 
 izmantojot komandu **man** (piem., **man pwd**) tiks parādīts komandas apraksts.
-Lai pārvietotos pa mapēm izmanto komandu **cd**
+Lai pārvietotos pa mapēm izmanto komandu **cd**. 
