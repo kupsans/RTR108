@@ -1,5 +1,5 @@
 # RTR108
-:shipit: Studiju kursa Datormācība (speckurss) elektroniskā klade :shipit:
+:baby_chick: Studiju kursa Datormācība (speckurss) elektroniskā klade :baby_chick:
 ## 2. nodarbība
 rinda 1   
 rinda 2   
@@ -17,7 +17,7 @@ Ieiet RTR108 un palaist skriptu _git-upload_, kuru mēs esam izveidojuši;
 
 Ievadīt savu username un paroli;
 
-Gatavs! :shipit:
+Gatavs! 
 
 
 ## 4.nodarbība
@@ -47,3 +47,10 @@ Ar komandu **exit** var tikt atpakaļ uz bash.
 izmantojot komandu **man** (piem., **man pwd**) tiks parādīts komandas apraksts.
 
 Lai pārvietotos pa mapēm izmanto komandu **cd**. 
+
+#### Skriptu izveidošana
+Skriptu var izveidot izmantojot nano teksta redaktoru (_nano skripts.sh_).
+
+Skriptu uzreiz nevarēs palaist. Tādēļ ir jāpapildina PATH. _PATH=$PATH:~/_
+
+Lai uzzinātu pašreizējo PATH izmanto komandu: **echo $PATH**
