@@ -1,12 +1,12 @@
 # RTR108
-# :zap: Studiju kursa Datormācība (speckurss) elektroniskā klade :zap:
-## 2. nodarbība
+## :zap: Studiju kursa Datormācība (speckurss) elektroniskā klade :zap:
+### 2. nodarbība
 rinda 1   
 rinda 2   
 rinda 3  
-## 3.nodarbība
+### 3.nodarbība
 
-#### Failu augšupielādēšana github
+##### Failu augšupielādēšana github
 To var izdarīt šādi:
 
 Sākumā lejuplādēt repozitariju RTR108 izmantojot komandu: git clone https://github.com/kupsans/RTR108 ;
@@ -20,9 +20,9 @@ Ievadīt savu username un paroli;
 Gatavs! 
 
 
-## 4.nodarbība
+### 4.nodarbība
 
-#### Noderīgas komandas
+##### Noderīgas komandas
 Lai uzzinātu savu operētājsistēmu, izmanto komandu: **uname**
 
 Lai uzzinātu programmēšanas valodu, jeb interpretatoru, izmanto komandu: **echo $0** 
@@ -34,7 +34,7 @@ Bet, lai uzzinātu pašreizējo atrašanās vietu, izmanto komandu: **pwd**
 
 un lai uzzinātu to, kas man ir pieejams, izmanto komandu: **ls**
  
-#### Izmantojot bash interpretatoru:
+##### Izmantojot bash interpretatoru:
 Ar ~ apzīmē mājas mapi.
 
 Ar TAB pogu ir iespējams pabeigt to, ko esat iesācis darīt. Ja ir vairāki varianti, tad 
@@ -48,7 +48,7 @@ izmantojot komandu **man** (piem., **man pwd**) tiks parādīts komandas aprakst
 
 Lai pārvietotos pa mapēm izmanto komandu **cd**. 
 
-#### Skriptu izveidošana
+##### Skriptu izveidošana
 Skriptu var izveidot izmantojot nano teksta redaktoru (_nano skripts.sh_).
 
 Skriptu uzreiz nevarēs palaist. Tādēļ ir jāpapildina PATH. _PATH=$PATH:~/_
