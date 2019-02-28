@@ -2,13 +2,17 @@
 
 ## :zap: Studiju kursa Datormācība (speckurss) elektroniskā klade :zap:
 
-### 2. nodarbība
+
+### 2.nodarbība
+
 
 Kurss ir pieejams SAKAI sistēmā. 
 
 https://edx2.etf.rtu.lv/portal/
 
+
 ### 3.nodarbība
+
 
 ##### Failu augšupielādēšana github
 
@@ -26,6 +30,7 @@ To var izdarīt šādi:
 
 
 ### 4.nodarbība
+
 
 ##### _Noderīgas komandas_
 
@@ -85,7 +90,9 @@ Komanda **history** uz ekrāna izdrukā visas izpildītās komandas.
 Lai history pārvērstu teksta failā, izmanto komandu
 _history > history20190221.txt_
 
+
 ### 5.nodarbība
+
 
 #### Shell skriptu piemēri
 
