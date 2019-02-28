@@ -73,7 +73,7 @@ Skriptu uzreiz nevarēs palaist. Tādēļ ir jāpapildina PATH. _PATH=$PATH:~/_
 
 Lai uzzinātu pašreizējo PATH izmanto komandu: **echo $PATH**
 
-Šim jaunajam failam ir jāpiešķir tiesības. To dara šādi: **cmod 750 skripts.sh**
+Šim jaunajam failam ir jāpiešķir tiesības. To dara šādi: **chmod 750 skripts.sh**
 
 Trīs ciparus pēc cmod var mainīt, ar citām vērtībām būs dažādas tiesības.
 
@@ -84,4 +84,57 @@ Komanda **history** uz ekrāna izdrukā visas izpildītās komandas.
 
 Lai history pārvērstu teksta failā, izmanto komandu
 _history > history20190221.txt_
+
+### 5.nodarbība
+
+#### Shell skriptu piemēri
+
+##### Shell Scripting Tutorial
+Šajā skriptā tiek izmantota **read** komanda, kas nolasa tastatūras ievadi.
+
+Ievadītais teksts tiek ielikts mainīgajā PERSON un tiek parādīts uz ekrāna.
+
+##### Shell Variables
+Formula mainīgā izveidošanai: **variable_name=variable_value** ,piemēram, _NAME="Mareks"_.
+
+Piekļūt šiem mainīgajiem var ar komandu **echo** (echo $NAME).
+
+Mainīgajiem var piešķirt **readonly** (readonly NAME), kas neļauj tos mainīt.
+
+##### Special variables
+$0 - skripta faila nosaukums
+$# - argumentu skaits
+skat. special_variables.sh un special_variables2.sh
+
+##### Shell arrays
+Lai izveidotu masīvu: **array_name\[index]=value**,piemēram,
+
+NAME[0]="Mareks"
+
+NAME[1]="Kupsans"
+
+Lai piekļūtu konkrētam masīva elementam: **${array_name\[index]}**,piemēram,
+
+echo "First Index: ${NAME[1]}"
+
+Lai piekļūtu visam masīvam: **${array_name[\*]}** vai **{array_name\[@]}**
+
+##### Operators
+Lai veiktu dažādas operācijas jāraksta, piemēram:
+**val=\`expr 2 + 2\`**
+
+Jābūt atstarpēm starp ciparu un operatoru!!
+
+Citi operatori: 
+
++ un - (saskaitīšana/atņemšana) 
+
+\* un / (reizināšana (jāliek \ )/dalīšana)
+
+== un != (vienādība/nevienādība)
+
+
+
+
+
 
