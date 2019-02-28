@@ -127,11 +127,11 @@ Jābūt atstarpēm starp ciparu un operatoru!!
 
 Citi operatori: 
 
-+ un - (saskaitīšana/atņemšana) 
+\+ un \-  (saskaitīšana/atņemšana) 
 
-\* un / (reizināšana (jāliek \ )/dalīšana)
+\* un /  (reizināšana (jāliek \ ) / dalīšana)
 
-== un != (vienādība/nevienādība)
+== un !=  (vienādība/nevienādība)
 
 
 
