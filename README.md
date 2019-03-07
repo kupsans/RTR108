@@ -155,6 +155,27 @@ _while nesting loop_ vienā ciklā ir ievietots cits cikls. (skat. shell_loops.s
 
 _for loop_ izmanto sarakstu un atkārto komandas katram saraksta punktam (skat. shell_for_loop.sh)
 
+_until loop_ izpilda komandas kamēr apgalvojums nav patiess. (skat. shell_until_loop.sh)
+
+_select loop_ ir noderīgs, kad vajag izveidot sarakstu, no kura var izvēlēties (skat. shell_select.sh)
+
+##### Loop control
+
+Cikli var strādāt mūžīgi (skat. shell_infinite.sh), bet var izmantot **break**, lai pārtrauktu
+cikla izpildi. (skat. shell_break.sh).
+
+**continue** ir līdzīgs break, bet tas neaptur visu ciklu, bet aptur iterāciju.
+
+##### Shell input/output
+
+##### Shell functions
+
+
+
+
+
+
+
 
 
 
