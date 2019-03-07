@@ -140,6 +140,22 @@ Citi operatori:
 
 == un !=  (vienādība/nevienādība)
 
+##### Decision making
+
+Shell ir divu veidu apgalvojumi: **if...else** un **case...esac**
+
+**if...else** ir domāts, lai izvēlētos kādu opciju no jau dotajām. (skat. shell_decisions.sh)
+**case...esac** ir domāts, ja dots viens mainīgais. (skat. shell_decisions2.sh)
+
+##### Loops
+
+_while loop_ izpilda komandas līdz brīdim, kad iestājas noteikts stāvoklis (skat. shell_while_loop.sh)
+
+_while nesting loop_ vienā ciklā ir ievietots cits cikls. (skat. shell_loops.sh)
+
+_for loop_ izmanto sarakstu un atkārto komandas katram saraksta punktam (skat. shell_for_loop.sh)
+
+
 
 
 
