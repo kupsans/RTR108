@@ -91,7 +91,7 @@ Lai history pārvērstu teksta failā, izmanto komandu
 _history > history20190221.txt_
 
 
-### 5.nodarbība
+### 5. un 6.nodarbība
 
 
 #### Shell skriptu piemēri
