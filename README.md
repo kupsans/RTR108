@@ -170,7 +170,9 @@ cikla izpildi. (skat. shell_break.sh).
 
 ##### Shell functions
 
+Lai deklarētu funkciju: **function_name () { list of commands } **
 
+Var arī definēt funkciju, kas pieņems parametrus ( $1, $2 utt. )
 
 
 
