@@ -174,6 +174,17 @@ Lai deklarētu funkciju: **function_name () { list of commands } **
 
 Var arī definēt funkciju, kas pieņems parametrus ( $1, $2 utt. )
 
+### 7.nodarbība
+
+Dots: teksta fails, kas satur "ABCD" un faila izmērs būs 5 baiti (papildus zīme kursora
+pārnešanai jaunā rindā).
+
+Tekstu ir iespējams formatēt, piemēram, ar lietotni *Word*. Bet šī programma ir "what you
+see is what you get" tipa programma. Tāpēc sarežģītākiem un lielākiem dokumentiem labāks
+ir LaTeX.
+
+
+
 
 
 
