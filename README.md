@@ -186,7 +186,7 @@ ir LaTeX.
 ### 8.nodarbība
 
 Tika turpināts 4.laboratorijas darbs "Kvalitatīvu dokumentu veidošana LaTeX vidē"
-
+Mājasdarbs līdz brīvdienu beigām - pārtaisīt nozīmēto ETP lekciju LaTeX. Mans variants: 13.lekcija
 
 
 
