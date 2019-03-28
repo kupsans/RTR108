@@ -183,6 +183,10 @@ Tekstu ir iespējams formatēt, piemēram, ar lietotni *Word*. Bet šī programm
 see is what you get" tipa programma. Tāpēc sarežģītākiem un lielākiem dokumentiem labāks
 ir LaTeX.
 
+### 8.nodarbība
+
+Tika turpināts 4.laboratorijas darbs "Kvalitatīvu dokumentu veidošana LaTeX vidē"
+
 
 
 
