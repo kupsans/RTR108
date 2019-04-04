@@ -174,7 +174,7 @@ Lai deklarētu funkciju: **function_name () { list of commands } **
 
 Var arī definēt funkciju, kas pieņems parametrus ( $1, $2 utt. )
 
-### 7.nodarbība
+### 7. un 8.nodarbība
 
 Dots: teksta fails, kas satur "ABCD" un faila izmērs būs 5 baiti (papildus zīme kursora
 pārnešanai jaunā rindā).
@@ -183,11 +183,19 @@ Tekstu ir iespējams formatēt, piemēram, ar lietotni *Word*. Bet šī programm
 see is what you get" tipa programma. Tāpēc sarežģītākiem un lielākiem dokumentiem labāks
 ir LaTeX.
 
-### 8.nodarbība
+### 9.nodarbība
 
 Tika turpināts 4.laboratorijas darbs "Kvalitatīvu dokumentu veidošana LaTeX vidē"
 Mājasdarbs līdz brīvdienu beigām - pārtaisīt nozīmēto ETP lekciju LaTeX. Mans variants: 13.lekcija
 
+### 10.nodarbība
+
+Python valodas apgūšanai offline var izmantot *Anaconda*, bet online - *colab.research.google.com*.
+VAI 213.175.92.37 (x121REB360) serverī, uzrakstot **python**.
+
+python failus saglabā ar paplašinājumu **.py** un tos palaist var rakstot *python skripts.py*
+
+Pieejamas vairākas vides: **python**, **ipython** un **idle &**
 
 
 
