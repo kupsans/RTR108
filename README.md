@@ -197,6 +197,10 @@ python failus saglabā ar paplašinājumu **.py** un tos palaist var rakstot *py
 
 Pieejamas vairākas vides: **python**, **ipython** un **idle &**
 
+### 11. - 16. nodarbība
+
+Atlikušajās nodarbības tika strādāts ar Arduino Nano mikrokontrolieri, Nokia 5110 displeju. Tika strādāts ar "Čūskas" spēli (kuras kodu sagatavoja M.Tērauds). Programmai tika uzlikts sākuma ekrāns un pogu darbība tika uzlabota.
+
 
 
 
